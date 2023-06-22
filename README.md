@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Advanced React**
 
-- 👨‍💻 See some of my work at [https://github.com/bcpeterson7/project-samples/blob/main/portfolio.md](https://github.com/bcpeterson7/project-samples/blob/main/portfolio.md)
+- 👨‍💻 See some of my work at [/portfolio.md](https://github.com/bcpeterson7/project-samples/blob/main/portfolio.md)
 
 - 💬 Ask me about **PHP, MySQL, JavaScript, LEMP stacks, and LAMP stacks**
 

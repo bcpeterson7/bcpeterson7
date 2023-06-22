@@ -84,7 +84,7 @@
 "Live as if you were to die tomorrow. Learn as if you were to live forever." ― Ghandi   
 "Treat others how you want to be treated." ― Jesus
 
-And for when I'm running... :running_man: :running_man: :running_man:   
+And for when I'm out jogging... :running_man: :running_man: :running_man:   
 "Fly you fools!" ― Gandalf :mage_man:  :rofl:
 
 &nbsp;

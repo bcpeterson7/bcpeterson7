@@ -40,6 +40,10 @@
 
 &nbsp;
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bcpeterson7&show_icons=true&locale=en&layout=compact" alt="bcpeterson7" /></p>
+
+&nbsp;
+
 <h2 align="left">A Little Bit More About Me</h2>
 
 - 🔭 I’m currently working on **a react checkout page for WooCommerce**
@@ -53,7 +57,7 @@
 
 <h2 align="left">Inspirational Quotes</h2>
 > Do or do not, there is no try. - Yoda
-> 
+
 &nbsp;
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bcpeterson7&show_icons=true&locale=en&layout=compact" alt="bcpeterson7" /></p>
+

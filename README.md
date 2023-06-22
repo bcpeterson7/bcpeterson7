@@ -79,8 +79,8 @@
 <h2 align="left">Inspirational Quotes :left_speech_bubble:</h2>
 
 "Do or do not, there is no try." ― Yoda   
-"Never give up, never surrender!" ―  Captain Taggart (<u>Galaxy Quest</u>)   
 "The difference between average people and achieving people is their perception of and response to failure." ― John C. Maxwell   
+"Never give up, never surrender!" ―  Captain Taggart (<u>Galaxy Quest</u>)   
 "Communication is the highway love travels on." ― Chip Ingram   
 "Treat others how you want to be treated."
 

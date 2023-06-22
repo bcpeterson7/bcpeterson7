@@ -65,7 +65,7 @@
 
 &nbsp;
 
-<h2 align="left">A Little Bit More About Me :+1:</h2>
+<h2 align="left">A Little Bit More About Me :hand:</h2>
 
 - 🤔 I believe in being a **lifelong student** and always learning
 - 💬 Ask me about **PHP, MySQL, JavaScript, LEMP stacks, and LAMP stacks**

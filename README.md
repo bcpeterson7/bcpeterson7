@@ -82,7 +82,7 @@
 "The difference between average people and achieving people is their perception of and response to failure." ― John C. Maxwell   
 "Never give up, never surrender!" ―  Captain Taggart (<u>Galaxy Quest</u>)   
 "Communication is the highway love travels on." ― Chip Ingram   
-"Live as if you were to die tomorrow. Learn as if you were to live forever." ― Ghandi
+"Live as if you were to die tomorrow. Learn as if you were to live forever." ― Ghandi   
 "Treat others how you want to be treated." ― Jesus
 
 And for when I'm running... :running_man: :running_man: :running_man:   

@@ -69,7 +69,7 @@
 
 - 🤔 I believe in being a **lifelong student** and always learning
 - 🎉 **Fun fact:** I love to create things and problem-solve. Unsurprisingly this matches perfectly with full stack development ¯\\_(ツ)_/¯
-- :dove: **Historical fact:** Prior to full stack development **I was a youth and family services counselor**. I understand communication, team building, and peacemaking
+- :dove: **Historical fact:** prior to full stack development **I was a youth and family services counselor**. I understand communication, team building, and peacemaking
 - :laughing: **I love to laugh.** I work hard and play hard, and humor paves the way
 - 💬 Ask me about **PHP, MySQL, JavaScript, LEMP stacks, and LAMP stacks**
 - 📫 How to reach me **bcpeterson7@gmail.com**

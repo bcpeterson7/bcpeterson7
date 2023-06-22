@@ -50,6 +50,8 @@
 
 - 📫 How to reach me **bcpeterson7@gmail.com**
 
-- 🎉 Fun fact: I love to create things and problem-solve. Unsurprisingly this matches perfectly with full stack development ¯_(ツ)_/¯
+- 🎉 **Fun fact:** I love to create things and problem-solve. Unsurprisingly this matches perfectly with full stack development ¯_(ツ)_/¯
+
+&nbsp;
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bcpeterson7&show_icons=true&locale=en&layout=compact" alt="bcpeterson7" /></p>

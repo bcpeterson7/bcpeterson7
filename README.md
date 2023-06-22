@@ -7,7 +7,7 @@
 
 &nbsp;
 
-<h2>Skills</h2>
+<h2>Skills :zap:</h2>
 
 <h3 align="left">Languages and Databases:</h3>
 <p align="left">

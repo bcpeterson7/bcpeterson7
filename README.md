@@ -67,7 +67,7 @@
 
 <h2 align="left">A Little Bit More About Me :+1:</h2>
 
-- 🔭 I’m currently working on **a react checkout page for WooCommerce**
+- 🔭 I’m currently working on **a react checkout page for WooCommerce** to decrease checkout time
 - 🤔 I believe in being a **lifelong student** and always learning
 - 💬 Ask me about **PHP, MySQL, JavaScript, LEMP stacks, and LAMP stacks**
 - 📫 How to reach me **bcpeterson7@gmail.com**

@@ -7,7 +7,7 @@
 
 &nbsp;
 
-<h2>Skills :zap:</h2>
+<h2>Full Stack Skills :zap:</h2>
 
 <h3 align="left">Languages and Databases:</h3>
 <p align="left">

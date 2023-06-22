@@ -84,6 +84,9 @@
 "Communication is the highway love travels on." ― Chip Ingram   
 "Treat others how you want to be treated."
 
+And for when I'm running...
+"Fly you fools!" ― Gandalf :mage_man:  :rofl:
+
 &nbsp;
 
 

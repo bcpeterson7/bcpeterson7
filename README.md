@@ -65,7 +65,7 @@
 
 &nbsp;
 
-<h2 align="left">A Little Bit More About Me <span style="postiion: relative; top: -5px;"> :+1: </span></h2>
+<h2 align="left">A Little Bit More About Me <g-emoji style="margin-top: -7px;" class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji></h2>
 
 - 🤔 I believe in being a **lifelong student** and always learning
 - 💬 Ask me about **PHP, MySQL, JavaScript, LEMP stacks, and LAMP stacks**

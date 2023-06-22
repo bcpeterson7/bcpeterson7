@@ -48,7 +48,7 @@
 </p>
 
 <h3 align="left">SEO Tools:</h3>
-<p align="left">  <a href="https://analytics.withgoogle.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/bcpeterson7/bcpeterson7/blob/main/images/google-analytics.png?" alt="Google Analytics" width="40" height="40"/> </a> <a href="https://marketingplatform.google.com/about/tag-manager/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bcpeterson7/bcpeterson7/6cd5c01dadcf302d53bc86fa1d3aa85114ee27cc/images/google_tag_manager.svg" alt="Google Tag Manager" width="40" height="40"/> </a> 
+<p align="left">  <a href="https://analytics.withgoogle.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/bcpeterson7/bcpeterson7/blob/main/images/google-analytics.png?" alt="Google Analytics" width="40" height="40"/> </a> <a href="https://marketingplatform.google.com/about/tag-manager/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bcpeterson7/bcpeterson7/6cd5c01dadcf302d53bc86fa1d3aa85114ee27cc/images/google_tag_manager.svg" alt="Google Tag Manager" width="40" height="40"/> </a>  <a href="[https://marketingplatform.google.com/about/tag-manager/](https://schema.org/)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bcpeterson7/bcpeterson7/main/images/structured-data.ico" alt="Structured Data - Schema.org" width="40" height="40"/> </a> 
 
 
 

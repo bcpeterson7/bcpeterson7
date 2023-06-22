@@ -56,7 +56,10 @@
 &nbsp;
 
 <h2 align="left">Inspirational Quotes</h2>
-> Do or do not, there is no try. - Yoda
+
+"Do or do not, there is no try." ― Yoda
+"The difference between average people and achieving people is their perception of and response to failure." ― John C. Maxwell
+"Communication is the highway love travels on." ― Chip Ingram
 
 &nbsp;
 

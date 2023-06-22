@@ -43,6 +43,7 @@
 
 &nbsp;
 
+<h3 align="left">A Little Bit More About Me</h3>
 
 - 🔭 I’m currently working on **a react checkout page for WooCommerce**
 

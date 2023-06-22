@@ -68,7 +68,7 @@
 <h2 align="left">A Little Bit More About Me :hand:</h2>
 
 - 🤔 I believe in being a **lifelong student** and always learning
-- 🎉 **Fun fact:** I love to create things and problem-solve. Unsurprisingly this matches perfectly with full stack development ¯\\_(ツ)_/¯
+- 🎉 **Fun fact:** I love to create things and problem-solve. This matches perfectly with full stack development ¯\\_(ツ)_/¯
 - :dove: **Historical fact:** prior to full stack development **I was a youth and family services counselor**. I understand communication, team building, and peacemaking
 - :laughing: **I love to laugh.** I work hard and play hard, and humor paves the way
 - 💬 Ask me about **PHP, MySQL, JavaScript, LEMP stacks, and LAMP stacks**

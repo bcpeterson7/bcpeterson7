@@ -57,8 +57,6 @@
   <a href="https://fxhome.com" target="_blank" rel="noreferrer"> <img src="https://github.com/bcpeterson7/bcpeterson7/blob/main/images/hitfilm.png" alt="Hitfilm" width="40" height="40"/> </a>
 </p>
 
-&nbsp;
-
 <h3 align="left">SEO Tools:</h3>
 <p align="left">  
   <a href="https://analytics.withgoogle.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/bcpeterson7/bcpeterson7/blob/main/images/google-analytics.png?" alt="Google Analytics" width="40" height="40"/> </a> 

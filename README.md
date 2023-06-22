@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a react checkout page for WooCommerce**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Advanced React**
 
 - 👨‍💻 See some of my work at [https://github.com/bcpeterson7/project-samples/blob/main/portfolio.md](https://github.com/bcpeterson7/project-samples/blob/main/portfolio.md)
 

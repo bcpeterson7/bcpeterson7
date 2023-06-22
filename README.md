@@ -50,7 +50,7 @@
 
 - 📫 How to reach me **bcpeterson7@gmail.com**
 
-- 🎉 **Fun fact:** I love to create things and problem-solve. Unsurprisingly this matches perfectly with full stack development ¯\_(ツ)_/¯
+- 🎉 **Fun fact:** I love to create things and problem-solve. Unsurprisingly this matches perfectly with full stack development ¯\\_(ツ)_/¯
 
 &nbsp;
 

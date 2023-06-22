@@ -65,7 +65,7 @@
 
 &nbsp;
 
-<h2 align="left">A Little Bit More About Me <img width="25" height="21" class="g-emoji" alt="thumbs up" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png" /></h2>
+<h2 align="left">A Little Bit More About Me <img width="27" height="27" alt="thumbs up" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png" style="max-width: 100%; margin-bottom: -5px" /></h2>
 
 - 🤔 I believe in being a **lifelong student** and always learning
 - 💬 Ask me about **PHP, MySQL, JavaScript, LEMP stacks, and LAMP stacks**

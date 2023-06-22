@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Advanced React**
 
-- 👨‍💻 See some of my work at [/portfolio.md](https://github.com/bcpeterson7/project-samples/blob/main/portfolio.md)
+- 👨‍💻 See some of my work at [portfolio.md](https://github.com/bcpeterson7/project-samples/blob/main/portfolio.md)
 
 - 💬 Ask me about **PHP, MySQL, JavaScript, LEMP stacks, and LAMP stacks**
 
 - 📫 How to reach me **bcpeterson7@gmail.com**
 
-- 📄 Learn about my experiences [https://docs.google.com/document/d/1kcggAXhyJkpr8A4MtUCbIpwOQE6lLiOu/edit?usp=sharing&ouid=112591749600229291993&rtpof=true&sd=true](https://docs.google.com/document/d/1kcggAXhyJkpr8A4MtUCbIpwOQE6lLiOu/edit?usp=sharing&ouid=112591749600229291993&rtpof=true&sd=true)
+- 📄 Learn about my experiences [view resume](https://docs.google.com/document/d/1kcggAXhyJkpr8A4MtUCbIpwOQE6lLiOu/edit?usp=sharing&ouid=112591749600229291993&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -72,7 +72,7 @@
 - 💬 Ask me about **PHP, MySQL, JavaScript, LEMP stacks, and LAMP stacks**
 - 📫 How to reach me **bcpeterson7@gmail.com**
 - 🎉 **Fun fact:** I love to create things and problem-solve. Unsurprisingly this matches perfectly with full stack development ¯\\_(ツ)_/¯
-- :laughing: **I love to laugh.** I work hard and play hard, and humor paves the way.
+- :laughing: **I love to laugh.** I work hard and play hard, and humor paves the way
 
 &nbsp;
 

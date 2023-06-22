@@ -72,6 +72,7 @@
 - :laughing: **I love to laugh.** I work hard and play hard, and humor paves the way
 - 💬 Ask me about **PHP, MySQL, JavaScript, LEMP stacks, and LAMP stacks**
 - 📫 How to reach me **bcpeterson7@gmail.com**
+- :dove: Prior to full stack development I was a youth and family services counselor. I understand communication, team building, and peacemaking
 
 
 &nbsp;

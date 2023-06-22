@@ -2,19 +2,9 @@
 <h3 align="center">A passionate full stack PHP developer from Sardis, Ohio, surrounded by the beautiful Wayne National Forest!</h3>
 <p align="left">Starting in 2009, I began the journey of becoming a full-stack developer. As a lifelong learner I'm constantly researching and learning new programming languages, packages, paradigms, and programs. Most of my experience centers around a blend of PHP application development, WordPress websites and server management in various environments (AWS, Ubuntu, CentOs, etc.) - all of which I'm an expert in!</p>
 <p align="left">When I'm not working I enjoy hanging out with my family, working on the farm, building animal enclosures, hiking, reading sci-fi books, and watching funny TV shows (favs are: Firefly, Scrubs, How I Met Your Mother, Star Wars, and the Big Bang Theory) and playing the occasional PC game.</p>
-<p>I'd love to connect so drop me a line!</p>
+<p>I'd love to connect so drop me a line **bcpeterson7@gmail.com**!</p>
 
-- 🔭 I’m currently working on **a react checkout page for WooCommerce**
-
-- 🌱 I’m currently learning **Advanced React**
-
-- 👨‍💻 See some of my work at [portfolio.md](https://github.com/bcpeterson7/project-samples/blob/main/portfolio.md)
-
-- 💬 Ask me about **PHP, MySQL, JavaScript, LEMP stacks, and LAMP stacks**
-
-- 📫 How to reach me **bcpeterson7@gmail.com**
-
-- 📄 Learn about my experiences [view resume](https://docs.google.com/document/d/1kcggAXhyJkpr8A4MtUCbIpwOQE6lLiOu/edit?usp=sharing&ouid=112591749600229291993&rtpof=true&sd=true)
+&nbsp;
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -50,6 +40,19 @@
 <h3 align="left">SEO Tools:</h3>
 <p align="left">  <a href="https://analytics.withgoogle.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/bcpeterson7/bcpeterson7/blob/main/images/google-analytics.png?" alt="Google Analytics" width="40" height="40"/> </a> <a href="https://marketingplatform.google.com/about/tag-manager/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bcpeterson7/bcpeterson7/6cd5c01dadcf302d53bc86fa1d3aa85114ee27cc/images/google_tag_manager.svg" alt="Google Tag Manager" width="40" height="40"/> </a>  <a href="[https://marketingplatform.google.com/about/tag-manager/](https://schema.org/)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bcpeterson7/bcpeterson7/main/images/structured-data.ico" alt="Structured Data - Schema.org" width="40" height="40"/> </a> 
 
+&nbsp;
 
+
+- 🔭 I’m currently working on **a react checkout page for WooCommerce**
+
+- 🌱 I’m currently learning **Advanced React**
+
+- 👨‍💻 See some of my work at [portfolio.md](https://github.com/bcpeterson7/project-samples/blob/main/portfolio.md)
+
+- 💬 Ask me about **PHP, MySQL, JavaScript, LEMP stacks, and LAMP stacks**
+
+- 📫 How to reach me **bcpeterson7@gmail.com**
+
+- 📄 Learn about my experiences [view resume](https://docs.google.com/document/d/1kcggAXhyJkpr8A4MtUCbIpwOQE6lLiOu/edit?usp=sharing&ouid=112591749600229291993&rtpof=true&sd=true)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bcpeterson7&show_icons=true&locale=en&layout=compact" alt="bcpeterson7" /></p>

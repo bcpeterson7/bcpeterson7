@@ -65,7 +65,7 @@
 
 &nbsp;
 
-<h2 align="left">A Little Bit More About Me</h2>
+<h2 align="left">A Little Bit More About Me :grey_question:</h2>
 
 - 🔭 I’m currently working on **a react checkout page for WooCommerce**
 - 🤔 I believe in being a **lifelong student** and always learning
@@ -76,7 +76,7 @@
 
 &nbsp;
 
-<h2 align="left">Inspirational Quotes</h2>
+<h2 align="left">Inspirational Quotes :speaking_head:</h2>
 
 "Do or do not, there is no try." ― Yoda   
 "The difference between average people and achieving people is their perception of and response to failure." ― John C. Maxwell   
